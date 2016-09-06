@@ -1,0 +1,11 @@
+0.  a 45 letter word
+1.  get resource usage
+2.  16
+3.  because math is being performed on multiple elements of a struct (but not all of them)
+4.  The function fgetc traverses each character within a text. Each "word" begins with a 0 index, and the loop keeps track of whether the file position is in a legitimate word depending on what characters it contains in which order. If the loop is indeed within a word, it stores that word in an array with a capacity of 45 characters. Once the end of a word is detected, a null terminator is added to the word array, and the index counter is returned to 0. At that point the word is checked for a misspelling, and the loop is continued until EOF.
+5.  Technically, the words being read into the spell checker are not necessarily words or strings. The fgetc, reads each character one at a time irrespective if it is in a string.
+6.  To ensure the compiler that the function will not be changing the value at the pointer.
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO

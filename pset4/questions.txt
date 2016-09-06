@@ -1,0 +1,19 @@
+0.  BMP supports 1.6x10^7 colors; GIF supports 256 colors; JPEG supports 1.67x10^7 colors; PNG supports 2.56x10^11 colors;
+1.  GIF supports animation
+2.  Lossy permanently loses data on compression; lossless conserves original data to be recovered
+3.  JPG is lossy; PNG, GIF and BMP are lossless
+4.  the file's address is marked as erased and the sectors the file was written on are released as "free" to be overwritten
+5.  destroy the hard disk or overwrite the file with other data
+6.  stdint.h defines specific int data types
+7.  these data types strictly define the size and functionality of the int; to further define the behavior of an integer in memory, system independent
+8.  1, 4, 4, 2
+9.  BM
+10. bfSize is the size of the entire file, and biSize is the size of just the image
+11. a negative biHeight indicates a "top-down" structure and that it can not be compressed
+12. biBitCount defines pixel depth
+13. argv[2] was not provided
+14. only one file is being read by fread
+15. 2
+16. changes the position of a pointer in bytes by a given offset
+17. the current position of a pointer
+18. Rick Astley
