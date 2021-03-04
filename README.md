@@ -6,5 +6,3 @@ For an overview of my thoughts on CS50, I invite you to read my blog post on the
 ## Please Note
 All work is provided in it's entirety, including the distribution code provided by CS50, Copyright © 2015 – 2016, David J. Malan of Harvard University. However, I have not included the C libraries that are exclusively provided as "training wheels" for earlier problem sets. Includes of "cs50.h" indicate that this library was used.
 The "Objectives" and "Summary" summary sections provided in each pset README file will indicate which portions of the source code were written by me.
-## Final Project
-Coming soon. :)
